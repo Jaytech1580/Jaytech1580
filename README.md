@@ -1,6 +1,1 @@
-👋 Hi, I'm Jaytech1580. My name is Ekeobong from Nigeria.
-👀 I'm a Front-End Developer, I am also keen to Data science and cybersecurity( There are fascinating).
-🌱 I dream and working towards being one of the best self-taught Front-End Developer in Nigeria and want to build stuff that will change the world.
-💞️ I am looking to collaborate on open source applications and gigs that will develop my skills.
-📫 You can reach me via [Twitter](https://www.twitter.com/Jaytech1580) and WhatsApp(+2348095000158).
-✨ Thanks for getting to know a little about me, looking to hearing from you, BYE!!!.
+👋 Hi, I'm Udoh. As a security analyst, I am passionate about protecting digital assets and ensuring the safety of individuals and organizations in the cyber world. With a strong background in cyber security, risk management, and threat intelligence, I have developed a keen eye for identifying vulnerabilities and implementing effective solutions to mitigate them. Through my work, I strive to stay ahead of the constantly evolving threat landscape, utilizing cutting-edge technologies and best practices to safeguard against attacks. Join me on this journey to secure the digital world and protect what matters most.
